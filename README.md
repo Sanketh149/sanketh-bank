@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://ibb.co/b7fJVwJ)
+![alt text](images/banksample.jpg)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
