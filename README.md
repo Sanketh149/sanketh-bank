@@ -22,6 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <img src="images/SANKETH BANK" alt="Bank Banner">
 <h3 align="center">Sanketh-Banking-Portal</h3>
 
   <p align="center">
